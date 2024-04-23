@@ -1,4 +1,4 @@
-$(".vehicle-slider").slick({
+$(".slider-3").slick({
   infinite: true,
   slidesToShow: 3,
   slidesToScroll: 1,

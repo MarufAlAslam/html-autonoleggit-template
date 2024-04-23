@@ -210,3 +210,18 @@ input {
 .map-section {
     background-color: #F5F5F5;
 }
+
+/* news */
+.news-img {
+    width: 60%;
+}
+
+.red-stripe {
+    background-color: #FF0000;
+    height: 15px;
+    width: 100%;
+}
+
+.text-red {
+    color: #FF0000;
+}

@@ -190,3 +190,17 @@ input {
     top: 50%;
     transform: translateY(-50%);
 }
+
+
+
+/* testimonial */
+.testimonial {
+    background: url("../img/testimonial-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fa-star {
+    color: #FCCC2E;
+}

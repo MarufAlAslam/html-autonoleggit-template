@@ -249,3 +249,49 @@ input {
 .footer li a {
     display: block;
 }
+
+
+/* modal */
+
+div#contactModal,
+.modal-dialog {
+    background: white;
+}
+
+.bg-ash {
+    background-color: #7F7F7F;
+    color: white;
+}
+
+.modal * {
+    border: unset;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.name {
+    background-image: url("../img/b1.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 5%;
+}
+
+.file {
+    background-image: url("../img/b2.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 5%;
+}
+
+.mail {
+    background-image: url("../img/b3.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 5%;
+}
+
+.fs-12 {
+    font-size: 12px;
+}

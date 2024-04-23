@@ -295,3 +295,52 @@ div#contactModal,
 .fs-12 {
     font-size: 12px;
 }
+
+body,
+html {
+    overflow-x: hidden !important;
+}
+
+
+@media screen and (max-width: 767px) {
+    .logo {
+        width: 120px;
+    }
+
+    .grid-5 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .navbar-nav {
+        margin-top: 10px;
+    }
+
+    .logo-text * {
+        text-align: center;
+    }
+
+    .mob-col-rev {
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .rizzo-icon {
+        display: none !important;
+    }
+
+    .card-car-img {
+        position: relative;
+        top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .map-section * {
+        text-align: center;
+    }
+
+    .footer * {
+        text-align: center;
+        justify-content: center !important;
+        align-items: center;
+    }
+}

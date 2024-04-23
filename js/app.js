@@ -15,6 +15,7 @@ $(".slider-3").slick({
       settings: {
         slidesToShow: 2,
         slidesToScroll: 1,
+        arrows: false,
       },
     },
     {
@@ -22,6 +23,7 @@ $(".slider-3").slick({
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1,
+        arrows: false
       },
     },
   ],
@@ -45,6 +47,7 @@ $(".testimonial-slider").slick({
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1,
+        arrows: false,
       },
     },
   ],

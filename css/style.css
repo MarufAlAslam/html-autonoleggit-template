@@ -225,3 +225,9 @@ input {
 .text-red {
     color: #FF0000;
 }
+
+
+/* cta */
+.cta {
+    background-color: #F5F5F5;
+}

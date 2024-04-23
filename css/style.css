@@ -112,7 +112,7 @@ input {
 /* perche */
 .icon {
     background-color: #1BA35C;
-    color: wheat;
+    color: white;
     min-width: 30px;
     width: 30px;
     min-height: 30px;
@@ -230,4 +230,22 @@ input {
 /* cta */
 .cta {
     background-color: #F5F5F5;
+}
+
+/* footer */
+.f-icon {
+    background-color: #000;
+    color: white;
+    min-width: 25px;
+    width: 25px;
+    min-height: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer li a {
+    display: block;
 }
